@@ -1,1 +1,1 @@
-This is the supporting data for this paper named "Optimization Design and Calibration of an Aerial Refueling Robotic Arm". After decompressing the file, it can be used.
+This is the supporting data for this paper named "A hybrid robotic arm for autonomous aerial refueling". After decompressing the file, it can be used.
